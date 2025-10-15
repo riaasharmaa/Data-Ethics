@@ -1,25 +1,12 @@
-# Data & Ethics specific files
-*.tmp
-*.temp
+# Documents (keep PDFs for now)
 
-# OS generated files
-.DS_Store
-.DS_Store?
-._*
-.Spotlight-V100
-.Trashes
-ehthumbs.db
-Thumbs.db
-
-# IDE files
+# IDE
 .vscode/
 .idea/
-*.swp
-*.swo
+
+# OS
+.DS_Store
+Thumbs.db
 
 # Logs
 *.log
-
-# Temporary files
-*.tmp
-*.temp

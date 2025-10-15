@@ -58,3 +58,4 @@ These essays represent coursework in data ethics, demonstrating understanding of
 4. Use these resources for informed decision-making in data-related work
 
 This repository showcases critical thinking about the ethical dimensions of data science and technology, essential for responsible professional practice.
+
